@@ -1,0 +1,211 @@
+[
+
+    {
+        "id_producto": 1,
+        "nombre": "Mix de Verduras",
+        "categoria": "1",
+        "codigo": "P001",
+        "stock": 100,
+        "unidad": "500 Gr",
+        "precio": 80,
+        "imagen": "assets/img/p33.png",
+        "descripción": "500 Gr de verduras seleccionadas",
+        "color": "success"
+
+    },
+
+    {
+        "id_producto": 2,
+        "nombre": "Champiñones",
+        "categoria": "1",
+        "codigo": "P002",
+        "stock": 100,
+        "unidad": "500 Gr",
+        "precio": 120,
+        "imagen": "assets/img/p38.png",
+        "descripción": "Paquete de 500 gramos de champiñon congeladas IQF",
+        "color": "success"
+
+    },
+
+    {
+        "id_producto": 3,
+        "nombre": "Papas Mc Cain Noisette",
+        "categoria": "1",
+        "codigo": "P003",
+        "stock": 100,
+        "unidad": "500 Gr",
+        "precio": 140,
+        "imagen": "assets/img/p33.png",
+        "descripción": "Paquete de 500 gramos papas Mc Cain noisette prefitas",
+        "color": "success"
+
+    },
+
+    {
+        "id_producto": 4,
+        "nombre": "Frutillas",
+        "categoria": "1",
+        "codigo": "P004",
+        "stock": 100,
+        "unidad": "500 Gr",
+        "precio": 110,
+        "imagen": "assets/img/p10.png",
+        "descripción": "Paquete de 500 gramos de frutillas congeladas IQF",
+        "color": "success"
+
+    },
+
+    {
+        "id_producto": 5,
+        "nombre": "Frambuesa",
+        "categoria": "1",
+        "codigo": "P005",
+        "stock": 100,
+        "unidad": "300 Gr",
+        "precio": 80,
+        "imagen": "assets/img/p33.png",
+        "descripción": "Paquete de 300 gramos de frambuesa congeladas IQF",
+        "color": "success"
+
+    },
+
+    {
+        "id_producto": 6,
+        "nombre": "Sorrentinos de Jamón y Queso",
+        "categoria": "2",
+        "codigo": "P006",
+        "stock": 100,
+        "unidad": "8 Uni",
+        "precio": 120,
+        "imagen": "assets/img/p51.png",
+        "descripción": "Paquete de 8 unidades. Masa de semolin, huevo en polvo y agua.Relleno con jamon cocido cagnoli y  queso cremoso La paulina",
+        "color": "warning"
+
+    },
+
+    {
+        "id_producto": 7,
+        "nombre": "Sorrentinos de Calabaza y Queso",
+        "categoria": "2",
+        "codigo": "P007",
+        "stock": 100,
+        "unidad": "8 Uni",
+        "precio": 120,
+        "imagen": "assets/img/p49.png",
+        "descripción": "Paquete de 8 unidades.Masa de semolin,huevo en polvo y agua.Relleno con Zapallo calabaza queso cremoso y muzzarella",
+        "color": "warning"
+
+    },
+
+    {
+        "id_producto": 8,
+        "nombre": "Noquis Comunes de Papa",
+        "categoria": "2",
+        "codigo": "P008",
+        "stock": 100,
+        "unidad": "360 Gr",
+        "precio": 90,
+        "imagen": "assets/img/p48.png",
+        "descripción": "Paquete de 360 gramos.Masa de semolin,huevo en polvo,papa y agua.",
+        "color": "warning"
+
+    },
+
+    {
+        "id_producto": 9,
+        "nombre": "Ñoquis Comunes de Espinaca",
+        "categoria": "2",
+        "codigo": "P009",
+        "stock": 100,
+        "unidad": "360 Gr",
+        "precio": 90,
+        "imagen": "assets/img/p45.png",
+        "descripción": "Paquete de 360 gramos.Masa de semolin,huevo en polvo,papa,espinaca y agua.",
+        "color": "warning"
+
+    },
+
+    {
+        "id_producto": 10,
+        "nombre": "Tallarines Al Huevo Cinta Ancha",
+        "categoria": "2",
+        "codigo": "P010",
+        "stock": 100,
+        "unidad": "250 Gr",
+        "precio": 90,
+        "imagen": "assets/img/p44.png",
+        "descripción": "500 Gr de verduras seleccionadas",
+        "color": "success"
+
+    },
+
+    {
+        "id_producto": 11,
+        "nombre": "Amburguesas de Carne",
+        "categoria": "3",
+        "codigo": "P011",
+        "stock": 100,
+        "unidad": "4 Uni",
+        "precio": 180,
+        "imagen": "assets/img/p01.png",
+        "descripción": "Caja de 4 amburguesas de carne de primera calidad.",
+        "color": "danger"
+
+    },
+
+    {
+        "id_producto": 12,
+        "nombre": "Amburguesas de Pollo",
+        "categoria": "3",
+        "codigo": "P012",
+        "stock": 100,
+        "unidad": "4 Uni",
+        "precio": 150,
+        "imagen": "assets/img/p02.png",
+        "descripción": "Caja de 4 amburguesas de pollo de primera calidad",
+        "color": "danger"
+
+    },
+
+    {
+        "id_producto": 13,
+        "nombre": "Queso Sardo",
+        "categoria": "4",
+        "codigo": "P013",
+        "stock": 100,
+        "unidad": "Kg",
+        "precio": 480,
+        "imagen": "assets/img/p53.png",
+        "descripción": "Queso Sardo fresco",
+        "color": "tertiary"
+
+    },
+    {
+        "id_producto": 14,
+        "nombre": "Queso Reggianito",
+        "categoria": "4",
+        "codigo": "P014",
+        "stock": 100,
+        "unidad": "Kg",
+        "precio": 150,
+        "imagen": "assets/img/p53.png",
+        "descripción": "Queso Reggianito fresco",
+        "color": "tertiary"
+
+    },
+    {
+        "id_producto": 15,
+        "nombre": "Helado de Dulce de leche",
+        "categoria": "5",
+        "codigo": "P015",
+        "stock": 100,
+        "unidad": "250 Gr",
+        "precio": 150,
+        "imagen": "assets/img/p54.png",
+        "descripción": "Helado de Dulce de leche",
+        "color": "secondary"
+
+    }
+
+]
